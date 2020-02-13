@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Coded by Giorgi Tchkoidze
 
 namespace Viewer
 {
