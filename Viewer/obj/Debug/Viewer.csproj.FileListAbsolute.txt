@@ -1,0 +1,9 @@
+C:\Users\GT\Desktop\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\GT\Desktop\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\GT\Desktop\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\GT\Desktop\Viewer\Viewer\obj\Debug\Viewer.csprojAssemblyReference.cache
+C:\Users\GT\Desktop\Viewer\Viewer\obj\Debug\Viewer.Form1.resources
+C:\Users\GT\Desktop\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\GT\Desktop\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.cache
+C:\Users\GT\Desktop\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\GT\Desktop\Viewer\Viewer\obj\Debug\Viewer.pdb
