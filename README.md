@@ -1,5 +1,5 @@
 # Picture-Viewer
-Simple Picture viewer in C#
+Simple Picture viewer in C#, .Net
 
 
 
